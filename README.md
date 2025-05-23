@@ -13,12 +13,6 @@ Level 4, Semester 1
 Department of CSE  
 Hajee Mohammad Danesh Science and Technology University (HSTU)
 
-## 📎 Assignment Files:
-- `assignment.md`: Main content of the assignment.
-- `references.md`: Cited sources and references.
-# Building a Resilient Digital Future:
-## Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
-
 ### Introduction
 As Bangladesh advances digitally, the need for strong and updated cyber laws becomes essential. Existing laws like the **ICT Act 2006** and the **Digital Security Act 2018** are often criticized for being vague, outdated, and sometimes misused. To build a secure and resilient digital future, Bangladesh should learn from effective global models.
 
