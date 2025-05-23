@@ -1,7 +1,3 @@
-# cyber-law-reforms-bd
-CSE 455 Cyber Law Assignment – Legal reform proposal based on global examples.
-# Cyber Law Reforms in Bangladesh
-
 ## 📘 Assignment Title:
 **Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples**
 
