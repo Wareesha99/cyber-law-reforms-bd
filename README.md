@@ -1,19 +1,19 @@
-## 📘 Assignment Title:
+## Assignment Title:
 **Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples**
 
-## 🎓 Course Info:
+## Course Info:
 - **Course Name**: Computer Ethics and Cyber Law
 - **Course Code**: CSE 455
 - **Credits**: 2.00
 - **Submission Date**: 23 May 2025
 
-## 🔗 Submitted by:
+## Submitted by:
 **Murshida Khanom Tuli**  
 Level 4, Semester 1  
 Department of CSE  
 Hajee Mohammad Danesh Science and Technology University (HSTU)
 
-## 👨‍🏫 Submitted to:
+## Submitted to:
 **Name**: Pankaj Bhowmik  
 **Designation**: Lecturer  
 **Department**: Computer Science and Engineering  
